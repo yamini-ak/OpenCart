@@ -1,7 +1,0 @@
-17:16:32.402 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest *****
-17:16:32.549 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Myaccount
-17:16:34.707 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on register
-17:16:34.710 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details
-17:16:37.172 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Validating expected message
-17:16:37.233 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
-17:16:37.233 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
